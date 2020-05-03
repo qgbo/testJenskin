@@ -8,8 +8,6 @@ D:\Work\Test\JenskinTestCore\bin\Debug\netcoreapp3.1\JenskinTestCore.runtimeconf
 D:\Work\Test\JenskinTestCore\bin\Debug\netcoreapp3.1\JenskinTestCore.dll
 D:\Work\Test\JenskinTestCore\bin\Debug\netcoreapp3.1\JenskinTestCore.pdb
 D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.csprojAssemblyReference.cache
-D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.csproj.CoreCompileInputs.cache
-D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.MvcApplicationPartsAssemblyInfo.cache
 D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.AssemblyInfoInputs.cache
 D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.AssemblyInfo.cs
 D:\Work\Test\JenskinTestCore\obj\Debug\netcoreapp3.1\JenskinTestCore.RazorTargetAssemblyInfo.cache

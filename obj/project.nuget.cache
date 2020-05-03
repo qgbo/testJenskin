@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AZwDMQ4wNyNDbs3QZzJKxnugpOoXid+vt70NCs50yaHmKOLMEgUD6/7lArmglv6Bbi7K4RyGAPHIN8UhEcWusQ==",
+  "dgSpecHash": "XZCweRIX9RC8vZYnQyOX+Xq+a0Or27Oz1quM6meaglwFTux17qTUEvuq3QQelbVUyjPM8vkEHRAOuBUeBYNVgw==",
   "success": true,
   "projectFilePath": "D:\\Work\\Test\\JenskinTestCore\\JenskinTestCore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\QiGongbo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
   "logs": []
 }
